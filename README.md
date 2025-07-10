@@ -1,16 +1,30 @@
-## Hi there 👋
+## 🚀 Hiring: LoanIQ SDK Developer (Remote)
 
-<!--
-**NitheshKumarSomu/NitheshKumarSomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Location:** Remote / WFH  
+🔹 **Experience:** 6+ yrs LoanIQ Dev  
+🔹 **Join:** Immediate
 
-Here are some ideas to get you started:
+We at **Enlink** seek an expert LoanIQ SDK Developer to build and customize solutions for global banking clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:**  
+- LoanIQ SDK, Core Java, OOP  
+- Oracle, DB2, SQL  
+- XQuery, XML, LoanIQ scripting  
+- Git, Nexus, Eclipse
+
+**Your Role:**  
+- Develop LoanIQ SDK components  
+- Design SQL queries & triggers  
+- Build Event Management scripts  
+- Manage data migration & integrations  
+- Troubleshoot production issues
+
+**Share These Details:**  
+- LoanIQ experience & current project  
+- Location  
+- Current CTC  
+- Expected CTC  
+- Notice period
+
+📧 Drop your CV, message, or call:  
+**Nithesh – 9136485275**
